@@ -11,6 +11,10 @@ Simple Tic Tac Toe
 	`require "tictactoe"`
 	`Tictactoe.start`
 
+- Tape "help" during the game to show you the different possible movements
+- You can let the computer playing with himself
+
+
 ## Installation
 
 Add this line to your application's Gemfile:
