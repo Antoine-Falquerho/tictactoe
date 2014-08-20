@@ -10,9 +10,9 @@ module Tictactoe
 			players = []
 			puts "Let's play Tic tac toe"
 			puts "Do you want to:"
-			puts "1 - play versus the OS"
-			puts "2 - See the OS fight himself?"
-			puts "INFO: At every moment tape help to get the best move!"
+			puts "1 - play with the OS"
+			puts "2 - See the OS fight himself!"
+			puts "INFO: At any moment use 'help' to see the different possible move!"
 			puts "Select:"
 			choice = nil
 			while not [1,2].include? choice.to_i do				
