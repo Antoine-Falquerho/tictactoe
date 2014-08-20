@@ -111,7 +111,7 @@ class Board
 
 	  #will get the user input and play. It will also set the next player
 	  def get_user_input
-	  	puts "What is your next move #{@current_player.name}?"
+	  	puts "What is your next move, #{@current_player.name}?"
 		  move = gets.gsub("\n","")
 		  
 		  if move.to_s.downcase == "help" #If we tape help, we will render the board with the number associated with each position. (to make it easier)
