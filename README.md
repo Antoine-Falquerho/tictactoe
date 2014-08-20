@@ -14,6 +14,12 @@ Simple Tic Tac Toe
 - Tape "help" during the game to show you the different possible movements
 - You can let the computer playing with himself
 
+## TODO
+
+- Improve test coverage
+- Try to replace the element of the board with the user object or empty string (" ")
+- Move the Board#start method into a new class to simplify the code
+
 
 ## Installation
 
