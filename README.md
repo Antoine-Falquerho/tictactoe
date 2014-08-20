@@ -6,10 +6,10 @@ Simple Tic Tac Toe
 
 ## To test
 	
-	`rake install`
-	`irb`
-	`require "tictactoe"`
-	`Tictactoe.start`
+	rake install
+	irb
+	require "tictactoe"
+	Tictactoe.start
 
 - Tape "help" during the game to show you the different possible movements
 - You can let the computer playing with himself
